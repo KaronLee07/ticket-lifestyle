@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/V2DuK0o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Demonstration 1:As an end-user, create the following ticket
@@ -50,7 +50,7 @@ Online Banking Department
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rn2JTPo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Demonstration 2: As an end-user, create the following ticket
